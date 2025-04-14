@@ -10,7 +10,7 @@ class App extends Component {
         return (
             <View>
                 <Text style={{ color: '#FF0000', fontSize: 25, margin: 15 }}>
-                    Eai Nairo Senac
+                    Eai Zuge
                 </Text>
                 <Image 
     source={{ uri: img}} 
